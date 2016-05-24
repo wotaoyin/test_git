@@ -1,3 +1,5 @@
+NEW TITLE
+
 =section A
 section a first sentence
 second sentence.
