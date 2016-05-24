@@ -1,6 +1,6 @@
 =section A
 section a first sentence
-
+second sentence.
 =section C
 
 =section D
