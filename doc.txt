@@ -2,3 +2,5 @@
 section a first sentence
 
 =section C
+
+=section D
