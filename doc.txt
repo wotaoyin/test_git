@@ -1,6 +1,4 @@
 =section A
 section a first sentence
 
-=section B
-
 =section C
